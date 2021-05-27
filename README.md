@@ -1,6 +1,6 @@
 # quizapp
 
-A new Flutter application.
+A small Flutter application which acts as a quiz app.
 
 ## Getting Started
 
